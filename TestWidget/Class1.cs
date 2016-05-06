@@ -8,5 +8,6 @@ namespace TestWidget
 {
     public class Class1
     {
+
     }
 }
